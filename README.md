@@ -1,3 +1,3 @@
 # Time-counter-
 Project Name - Time Center 
-# web development from technohacks  
+# web development internship from technohacks  
